@@ -75,7 +75,7 @@ El programa principal:
 
 ## Simulación en Proteus
 
-[Aquí irá una imagen del circuito en Proteus]
+![Circuito en Proteus](img/prototipo.png)
 
 El circuito en Proteus incluye:
 - Arduino UNO
